@@ -51,5 +51,4 @@ This project demonstrates how to:
 * Model evaluation and visualization
 
 
-This README makes your GitHub repo **look professional and clear**, highlighting both your technical skills and the project results.
 
